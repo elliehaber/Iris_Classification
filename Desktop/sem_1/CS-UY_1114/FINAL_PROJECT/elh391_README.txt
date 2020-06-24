@@ -44,27 +44,5 @@ The draw_key function calls on the train_key and predictions_key functions to dr
 The train_key function outputs the portion of the key representing the training data and the predictions_key
 function outputs the portion of the key representing the predictions.
 
-I strayed from the starter code by creating the draw_axes function, the train_key function, and the 
-predictions_key function. I created these functions to improve the readability of my code by breaking down the
-problems I needed to solve into simpler steps. 
 
-I took artistic liberties in my graph by changing the colors used in my graph and adding a window title.
-
-A feature I would have liked to implement is to find more than just one nearest neighbor in my algorithm, since
-this could help reduce the error percentage of it. It also would have been interesting to try to create an 
-algorithm predicting iris type with possibly more features than just petal measurements to analyze.
-
-I am satisfied with the result because I feel that I accurately created an algorithm that predicts the iris-type
-of an iris given only the measurements of its petals. I was also able to visualize the results of my code 
-Through a graph made in turtle, which I feel was well-executed. 
-
-I found normalizing the data to be challenging initially because I could not figure out how to change the 
-elements of the data being normalized since it was a tuple and the function had no return value. However, I determined that by changing the elements of the lists within the tuple, I could successfully normalize the data.
-The actual algorithm for making predictions about the iris data was actually easier than I anticipated. I am 
-Proud of the way I went about creating the make_predictions function, and I'm also proud of how I broke down the process of creating my graph into multiple functions and loops in order to make the code more readable and efficient. 
-
-I would approach the problem differently in the future by writing out my algorithm first before coding anything and ensuring that I had a whole understanding of the problem itself before jumping into the actual coding of it. 
-
-I thought the instructions were very clear and the starter code was very helpful in allowing a large, complex problem to be broken down into a series of simpler problems to solve. 
-
-I found the assignment very interesting and I now want to pursue machine learning in my computer science career. This project has given me insight into the real-world applications of the programming skills I have learned in this class. Moreover, it has introduced me to an area of computer science that I find fascinating and hope to continue pursuing. 
+ 
